@@ -87,7 +87,7 @@
       "value": "${AZURE_APP_SERVICE_SKU=B1}"
     },
     "backendServiceName": {
-      "value": "asd-backend"
+      "value": "asd-wra-chat"
     },
     "chatGptModelName":{
       "value": "${AZURE_OPENAI_CHATGPT_MODEL}"
